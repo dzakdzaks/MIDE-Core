@@ -14,4 +14,4 @@ s.framework = "UIKit"
 s.source_files = "Core/**/*.{swift}"
 #s.resources = "Core/**/*.{png, jpeg, jpg, storyboard, xib, xcassets}"
 s.swift_version = "5.5"
-End
+end
