@@ -1,12 +1,12 @@
 Pod::Spec.new do |spec|
 
 spec.name		= 'Core'
-spec.version 		= '1.0.1'
+spec.version 		= '1.0.0'
 spec.license		= { :type => 'MIT', :file => 'LICENSE' }
 spec.homepage    	= 'https://github.com/dzakdzaks/MIDE-Core'
 spec.authors     	= { 'Dzaky' => 'dzakyrahmanto@gmail.com' }
 spec.summary     	= 'Core Module for Dicoding Project'
-spec.source      	= { :git => 'https://github.com/dzakdzaks/MIDE-Core.git', :tag => '#{s.version}' }
+spec.source      	= { :git => 'https://github.com/dzakdzaks/MIDE-Core.git', :tag => '1.0.0' }
 spec.module_name 	= 'Core'
 spec.swift_version 	= '5.5'
 
