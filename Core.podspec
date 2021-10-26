@@ -7,7 +7,7 @@ spec.homepage    	= 'https://github.com/dzakdzaks/MIDE-Core'
 spec.authors     	= { 'Dzaky' => 'dzakyrahmanto@gmail.com' }
 spec.summary     	= 'Core Module for Dicoding Project'
 spec.source      	= { :git => 'https://github.com/dzakdzaks/MIDE-Core.git', :tag => '1.0.0' }
-spec.module_name 	= 'Core Module'
+spec.module_name 	= 'Core'
 spec.swift_version 	= '5.5'
 
 spec.ios.deployment_target	= '14.0'
