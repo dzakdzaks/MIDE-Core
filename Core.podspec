@@ -27,7 +27,7 @@ s.source = { :git => "https://github.com/dzakdzaks/MIDE-Core.git",
 s.framework = "UIKit"
 
 # 8
-s.source_files = "Core/**/*.{swift}"
+s.source_files = "Core/**/*.swift"
 
 # 9
 #s.resources = "Core/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
