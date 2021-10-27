@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage      = 'https://github.com/dzakdzaks/MIDE-Core'
   spec.authors       = { 'Muhammad Dzaky Rahmanto' => 'dzakyrahmanto@gmail.com' }
   spec.summary       = 'Dicoding Core.framework for modularization chapter'
-  spec.source        = { :git => 'https://github.com/dzakdzaks/MIDE-Core.git', :tag => '#{s.version}' }
+  spec.source        = { :git => 'https://github.com/dzakdzaks/MIDE-Core.git', :tag => '0.0.1' }
   spec.module_name   = 'Core'
   spec.swift_version = '5.5'
 
