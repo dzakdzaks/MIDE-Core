@@ -8,7 +8,7 @@ s.summary = "Dicoding Core.framework for modularization chapter"
 s.requires_arc = true
 
 # 2
-s.version = "1.0.2"
+s.version = "0.0.1"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -27,7 +27,7 @@ s.source = { :git => "https://github.com/dzakdzaks/MIDE-Core.git",
 s.framework = "UIKit"
 
 # 8
-s.source_files = "**/Classes/**/*.{swift}"
+s.source_files = "Core/**/*.{swift}"
 
 # 9
 #s.resources = "Core/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
